@@ -9,6 +9,7 @@
 -  <a href="http://dou.ua/forums/topic/8806/">Покритикуйте пожалуйста резюме (Junior java)</a>
 -  <a href="http://www.luxoft-personnel.ru/press/articles/resume/">Как составить резюме программисту?</a>
 -  <a href="http://gkislin.ru/ru/cv.html">Мое (только как пример)</a>, <a href="https://www.linkedin.com/in/gkislin">linkedIn</a>
+-  <a href="http://www.quizful.net/test">Quizful- тесты онлайн</a>
 
 ### От себя:
 -  email, skype - очень желательно, чтобы по ним вы были узнаваемы. Заведите рабочие, если не так.
