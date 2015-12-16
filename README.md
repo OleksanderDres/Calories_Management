@@ -15,7 +15,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 
 ## <a href="description.md">Описание проекта</a>
 ### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
-### <a href="cv.md">Ваше резюме</a>
+### <a href="cv.md">Поиск работы</a>
 
 #### <a href="https://github.com/JavaOPs/topjava/wiki">Wiki</a>
 #### <a href="https://gitter.im/JavaOPs/topjava">Форум</a>
