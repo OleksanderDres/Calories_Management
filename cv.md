@@ -11,6 +11,7 @@
 -  <a href="http://www.luxoft-personnel.ru/press/articles/resume/">Как составить резюме программисту?</a>
 -  <a href="http://gkislin.ru/ru/cv.html">Мое (только как пример)</a>, <a href="https://www.linkedin.com/in/gkislin">linkedIn</a>
 -  <a href="http://www.quizful.net/test">Quizful- тесты онлайн</a>
+-  <a href="https://github.com/MaximAbramchuck/awesome-interviews#java">Сборка по вопросам на интервью</a>
 
 ### От себя:
 -  email, skype - очень желательно, чтобы по ним вы были узнаваемы. Заведите рабочие, если не так.
